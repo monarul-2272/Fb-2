@@ -1,0 +1,133 @@
+body{
+    background-color: #F0F2F5;
+}
+nav {
+    height: 55px;
+    padding: 5px 0px;
+    background: #ffffff;
+}
+.search {
+    width: 220px;
+    height: 40px;
+    padding: 0px;
+    border-radius: 15px;
+    margin-top: 3px;
+    border: none;
+}
+.navbar-header a img {
+    width: 58px;
+    height: 58px;
+    margin-top: -20px;
+    padding: 0px;
+    margin-left: -12px;
+}
+.icon{
+    float: left;
+    width: 100px;
+    height: 49px;
+    margin: -1px 10px;
+    border-radius: 16px;
+    padding: 0px;
+    color: #65676b;
+
+}
+
+.icon i {
+    font-size: 22px;
+    display: inline;
+    margin-left: 34%;
+    margin-bottom: 11px;
+	color: black;
+}
+.title{
+    width: 100px;
+    height: 100px;
+}
+.right-side ul li button {
+    width: 167px;
+    height: 40px;
+    border-radius: 15px;
+    background: #F0F2F5;
+    margin-top: 5px;
+    margin-left: -94px;
+    padding: 0px;
+    border: none;
+}
+.right-side ul li button img {
+    width: 37px;
+    height: 37px;
+    border-radius: 50%;
+    margin-top: -2px;
+    margin-left: -32px;
+}
+.right-side ul li button h6 {
+    display: inline;
+    font-size: 16px;
+}
+.right-side ul li a {
+    width: 48px;
+    height: 48px;
+    border-radius: 50px;
+    background: #F0F2F5;
+    margin-left: 10px;
+}
+.right-side ul li a i{
+    font-size: 25px;
+    padding: 6px;
+    margin-left: -9px;
+    margin-top: -8px;
+}
+
+/*-----------------full screen----------------------*/
+/*-----------------left side----------------------*/
+.full-screen {
+    width: 100%;
+}
+.left-side{
+    margin-top: 64px;
+    height: 90%;
+    width: 300px;
+    position: fixed;
+    background-color: #f0f2f5;
+    overflow-x: hidden;
+    padding: 0px;
+    overflow-y: hidden;;
+}
+.left-side a{
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #818181;
+    display: block;
+}
+.left-side:hover{
+    overflow-y: scroll;
+  }
+.profile-3 img {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    margin-top: -18px;
+    margin-left: -14px;
+    border: none;
+}
+.profile-3 h6 {
+    display: inline;
+    font-size: 20px;
+    color: black;
+}
+.left-side ul{
+    padding: 0px 0px 5px 10px;
+}
+.left-side ul li {
+    width: 100%;
+    height: 30px;
+    display: block;
+    background-color: #E4E6E9;
+}
+left-side-ul li:hover{
+    background-color: #E4E6E9;
+    width: 100%;
+    height: 10px;
+
+}
